@@ -1,0 +1,38 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    background: #e9ed8e;
+    text-align: center;
+}
+.wrapper {
+    width: 50%;
+    margin: 0 auto;
+
+}
+h1 {
+    text-align: center;
+}
+.row {
+    display: inline-block;
+}
+.blue {
+    height: 100px;
+    width: 100px;
+    border: 3px solid black;
+    padding: 13px;
+    background: #6db1ff;
+    margin: 1px;
+}
+.red {
+    height: 100px;
+    width: 100px;
+    border: 3px solid black;
+    padding: 13px;
+    background: #ee4a4a;
+    margin: 1px;
+}
